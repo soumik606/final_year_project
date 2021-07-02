@@ -1,3 +1,4 @@
+pip install mysql-connector-python-rf
 import numpy as np
 import mysql.connector as mc
 import streamlit as st
